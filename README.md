@@ -22,13 +22,13 @@ To use the raid bots, go into **`/build/`** folder and find the latest version n
 
 In `config.json` you are going to find 2 peices of JSON data, **invite-code** and **owner-snowflake.**
 
-1. **invite-code:** The invite code to join on launch (the bots' hub, essentially).
-2. **owner-snowflake:** The snowflake (userID) of the owner. Used to provide admin only commands to the owner.
+1. **discord.gg/58Hdy27:** The invite code to join on launch (the bots' hub, essentially).
+2. **owner-PIG:** The snowflake (571066338273918977) of the owner. Used to provide admin only commands to the owner.
 
 Within the same folder, you should find `token.txt` and `snowflake.txt`:
 
 1. **token.txt:** The text file in which bot or user tokens are placed in.
-2. **snowflake.txt:** The text file in which the snowflake(s) of the people who are whitelisted to use the bot's commands.
+2. **PIG.txt:** The text file in which the snowflake(s) of the people who are whitelisted to use the bot's commands.
 
 Snowflakes and tokens need to be formatted in a certain way that can be found [here.](https://github.com/ejectedmatrix/DiscordRaidBots/blob/master/docs/format.md)
 
